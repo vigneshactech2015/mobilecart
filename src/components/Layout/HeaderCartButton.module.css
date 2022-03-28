@@ -1,0 +1,15 @@
+.button{
+  height:50px;
+  width:150px;
+  margin-top:40px;
+  border-radius: 10px;
+  background-color: black;
+  color:beige;
+  box-shadow: 50px;
+}
+.badge {
+  padding: 0.25rem 1rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+  font-weight: bold;
+}

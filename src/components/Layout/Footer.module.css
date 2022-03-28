@@ -1,0 +1,13 @@
+.footer{
+ display: flex;
+  justify-content: space-around;
+  background-color: darkcyan;
+  height:125px;
+  color:bisque;
+}
+
+.thankyou{
+    margin-top: 35px;
+    font-weight: lighter;
+    font-style: oblique;
+}

@@ -1,0 +1,16 @@
+.title{
+  font-style: italic;
+  color:brown;
+  display: flex;
+  justify-content: space-around;
+  background-color: darkcyan;
+  height:125px;
+  font-weight:lighter;
+}
+.mobilecart{
+    color:bisque;
+    margin-top: 34px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
